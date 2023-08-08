@@ -18,7 +18,7 @@ Este repositório contém um projeto de detecção facial utilizando a bibliotec
 
 ## Pré-requisitos
 <p>
- Certifique-se de ter o Python instalado em sua máquina. Além disso, você precisará instalar as seguinte biblioteca:
+ Certifique-se de ter o Python instalado em sua máquina. Além disso, você precisará instalar a seguinte biblioteca:
 </p>
 
 - OpenCV: Para a detecção facial
