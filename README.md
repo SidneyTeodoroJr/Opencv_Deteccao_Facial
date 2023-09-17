@@ -1,47 +1,48 @@
-<h1 align="center">Detecção Facial usando OpenCV</h1>
+<h1 align="center">Facial Detection using OpenCV</h1>
 </br>
 
 <div align="center">
-<img src="https://github.com/SidneyTeodoroJr/Opencv_Deteccao_Facial/blob/main/print_screen.png" alt="gradient">
+<img src="https://github.com/SidneyTeodoroJr/Opencv_Deteccao_Facial/blob/main/print_screen.png" alt="Facial Detection">
 </div>
 </br> 
 </br>
 
 <p>
-Este repositório contém um projeto de detecção facial utilizando a biblioteca OpenCV. A detecção facial é uma tarefa fundamental em muitas aplicações de visão computacional, como reconhecimento facial, segurança, análise de emoções e muito mais. Neste projeto, utilizamos a biblioteca OpenCV para realizar a detecção de faces em imagens estáticas.
+This repository contains a facial detection project using the OpenCV library. Facial detection is a fundamental task in many computer vision applications such as facial recognition, security, emotion analysis, and more. In this project, we use the OpenCV library to perform face detection in static images.
 </p>
 </br>
 
-## Funcionalidade
+## Functionality
 
-- Detecção de faces em imagens estáticas
+- Face detection in still images
 
-## Pré-requisitos
+## Prerequisites
+
 <p>
- Certifique-se de ter o Python instalado em sua máquina. Além disso, você precisará instalar a seguinte biblioteca:
+ Make sure you have Python installed on your machine. Additionally, you will need to install the following library:
 </p>
 
-- OpenCV: Para a detecção facial
+- OpenCV: For facial detection
 
       pip install opencv-python 
 
 
-## Como usar
+## How to use
 
-1. Clone este repositório para o seu computador ou faça o download como arquivo ZIP.
+1. Clone this repository to your computer or download as a ZIP file.
    ```
    git clone https://github.com/SidneyTeodoroJr/Opencv_Deteccao_Facial.git
-2. Navegue até o diretório do projeto.
+2. Navigate to the project directory.
    ```
    cd Opencv_Deteccao_Facial
-3. Execute o script `main.py` para detectar faces em uma imagem estática.
+
 </br>
 
 
-## Contribuições
+## Contributions
 
 <p>
-Contribuições são bem-vindas! Se você quiser melhorar a detecção facial, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para enviar um pull request. </br>If you encounter any problems or have any suggestions for improvement, you can contact me through my profile on <a href="https://github.com/SidneyTeodoroJr" target="_blank">GitHub</a> or through my social networks listed below.
+Contributions are welcome! If you want to improve facial detection, add new features, or fix issues, feel free to submit a pull request. </br>If you encounter any problems or have any suggestions for improvement, you can contact me through my profile on <a href="https://github.com/SidneyTeodoroJr" target="_blank">GitHub</a> or through my social networks listed below.
 </p>
 
 <hr>
